@@ -1,2 +1,3 @@
 # diabetes_test_webpy
-algorith for diabetes testing using webpy framework for takin input from user
+algorithm for diabetes testing using webpy framework for taking input from user and webscrping it's cure
+
